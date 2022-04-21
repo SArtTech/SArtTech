@@ -3,7 +3,7 @@ import telebot;
 from telebot import types;
 import random;
 
-TOKEN = "2074671002:AAESx8OSWY2PlRXzRTzkZRNq_chT_ee6oBY"
+TOKEN = "fbjsfbjs"
 bot = telebot.TeleBot(TOKEN)
 #bot.remove_webhook()
 
